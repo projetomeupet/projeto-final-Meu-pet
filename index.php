@@ -56,12 +56,12 @@
     <div>
         <h1>Login</h1> 
         <br> </br>
+        <form action="principal.php" method="post">
         <input type="text" placeholder="Usuário">  
         <br> </br>
         <input type="password" placeholder="Senha">
         <br> <br> </br>
-        <button>Entrar</button>
+        <button type="submit">Entrar</button>
     </div>
 </body>
 </html>
-.
