@@ -62,6 +62,9 @@
         <input type="password" placeholder="Senha">
         <br> <br> </br>
         <button type="submit">Entrar</button>
+        <br> </br>
+        <p>Ainda não tem cadastro? <p> <a href="cadastro.php" style="color:green"; >Clique aqui para fazer!</a></p></p>
+
     </div>
 </body>
 </html>
